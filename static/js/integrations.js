@@ -266,7 +266,7 @@ const javaIntegration = {
             composition_analysis: false,
             artifact_analysis: false,
             scan_path: '/tmp/code',
-            scan_opts: null,
+            scan_opts: "",
             timeout: 15,
             timeout_threshold: 5,
 
